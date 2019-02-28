@@ -6,6 +6,7 @@ const SERVER_HOST = 'https://eventonica-backend.herokuapp.com';
 // uncomment for local dev
 // const SERVER_HOST = 'http://localhost:5000';
 
+
 class App extends Component {
   constructor(props) {
       super(props);
